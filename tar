@@ -1,0 +1,2 @@
+tar -cvzf archive1.tar.gz dir1
+tar -xvzf archive1.tar.gz
